@@ -1,4 +1,4 @@
-# Acer Cybersecurity Home Lab Setup
+# Blue Team Cybersecurity Home Lab Setup
 
 Author: Kellie Hucker  
 
@@ -117,7 +117,7 @@ This mirrors real-world blue team environments.
 
 ## Related Projects
 
-- Wazuh SIEM Log Pipeline:   
-- BitLocker Encryption Setup: cyber-bitlocker-full-drive-encryption
-- Secure Device Decommissioning: cyber-secure-device-decommissioning
-- Cyber IDE and Workspace Setup: cyber-ide-and-lab-workspace-setup
+- Wazuh SIEM Log Pipeline: https://github.com/khucker3d/cyber-homelab-wazuh-log-pipeline
+- BitLocker Encryption Setup: https://github.com/khucker3d/cyber-bitlocker-full-drive-encryption
+- Secure Device Decommissioning: https://github.com/khucker3d/cyber-secure-device-decommissioning
+- Cyber IDE and Workspace Setup: https://github.com/khucker3d/cyber-ide-and-lab-workspace-setup
